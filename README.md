@@ -1,0 +1,2 @@
+# Website-with-Face-Recognition
+Our Website with Face Recognition  is a investigation website with face recognition through which authorized member can identify the criminals through the database images , it also gather the anti-national information  through public grievance. It has two different actor i.e. Authorized Members which asign by the admin ,they have right to recignize criminals face and second is Admin who have right to access information by user and feed criminals record into database and also asign members.
